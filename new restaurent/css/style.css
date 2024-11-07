@@ -383,6 +383,7 @@ header  {
     display:flex;
     justify-content:center;
     align-items:center;
+    background:url("contact/bg.jpg") no-repeat center center/cover;
 }
 .container form{
     width:670px;
