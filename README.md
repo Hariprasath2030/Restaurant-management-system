@@ -92,16 +92,7 @@ restaurant-management-system/
    - Right-click on `index.html`
    - Select "Open with Live Server"
 
-3. **Using Python HTTP Server**
-   ```bash
-   # Python 3
-   python -m http.server 8000
-   
-   # Python 2
-   python -m SimpleHTTPServer 8000
-   ```
-
-4. **Using Node.js HTTP Server**
+3. **Using Node.js HTTP Server**
    ```bash
    npx http-server
    ```
@@ -192,19 +183,7 @@ restaurant-management-system/
 1. Fork the repository
 2. Create a feature branch
 3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 📞 Support
-
-For support and questions:
-- Email: restaurent123@gmail.com
-- Phone: 1234567890
-- Location: Road street, Coimbatore
+4. Test thoroughly5. Submit a pull request
 
 ---
 
